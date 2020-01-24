@@ -1,0 +1,23 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0A85-A68A
+
+ Directory of C:\Users\dean1\PycharmProjects
+
+01/21/2020  09:26 AM    <DIR>          .
+01/21/2020  09:26 AM    <DIR>          ..
+01/17/2020  02:27 PM    <DIR>          .idlerc
+01/14/2020  07:44 AM    <DIR>          Closure
+01/15/2020  11:39 AM    <DIR>          Decorators
+01/13/2020  12:32 PM    <DIR>          Employee
+01/17/2020  08:51 AM    <DIR>          multiprocessing
+01/16/2020  05:36 PM    <DIR>          name_main
+01/09/2020  09:45 PM                24 NDoc.txt
+01/21/2020  09:26 AM                 0 output.txt
+01/14/2020  06:32 AM    <DIR>          ProjFunction
+01/10/2020  09:25 AM               165 Python Datetime.txt
+01/16/2020  02:33 PM    <DIR>          RegExpressions
+01/21/2020  09:26 AM    <DIR>          subprocess
+01/21/2020  09:12 AM    <DIR>          threading
+01/13/2020  12:33 PM    <DIR>          untitled
+               3 File(s)            189 bytes
+              13 Dir(s)  37,850,742,784 bytes free
